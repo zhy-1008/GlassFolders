@@ -1,0 +1,18 @@
+# Build and editor files
+/build/
+bin/
+obj/
+.vs/
+*.exe
+*.pdb
+*.user
+
+# Local widget settings and test output
+settings.json
+settings.json.tmp
+settings.json.bak
+settings.json.invalid-*
+error.log
+test-results.txt
+demo-files/
+demo-settings/
