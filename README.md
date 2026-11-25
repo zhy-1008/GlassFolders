@@ -1,6 +1,6 @@
 # 桌面文件夹 · Glass Folders
 
-![成品预览](E:\code\GlassFolders\assets\效果预览.png)
+![成品预览](assets\成品预览.png)
 
 Glass Folders 是一个 Windows 11 桌面组件，可以把常用文件夹以磨砂玻璃面板的形式放在桌面上。每个面板绑定一个实际目录，可浏览其中的文件和子文件夹。
 
